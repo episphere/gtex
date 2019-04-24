@@ -11,7 +11,7 @@ gtex={
     }
 }
 
-gtex.create_at=Date()
+gtex.created_at=Date()
 
 window.onload=gtex.ui
 
